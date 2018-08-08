@@ -1,0 +1,35 @@
+#main {
+	background: #dcdcdc;
+	font-family: Trebuchet MS;
+	margin: 10px;
+	padding: 10px;
+	align-content: center;
+	border-radius: 5px;
+}
+#title {
+	text-align: center;
+}
+#img-div {
+	margin: 3px;
+	align-content: center;
+	text-align: center;
+	background: white;
+	padding: 10px;
+}
+#img-div #image img {
+	max-width: 1024px;
+	object-fit: contain;
+	width: 100%;
+	align-self: center;
+	margin-left: 5px;
+}
+#img-div #img-caption {
+	text-align: center;
+}
+.contents {
+	align-content: center;
+	margin: auto;
+	text-align: left;
+	width: 570px;
+	line-height: 25px;
+}
